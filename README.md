@@ -1,4 +1,4 @@
-# Junior Full stack Developer!!
+# Full stack Developer!!
 ### About me
 <img src="https://i.pinimg.com/originals/49/27/84/4927849d453932ff05aba4fe7a06dd12.gif" width="100" height="100" alt="hello">
 I am in possesion of Dutch Citizenship. My passion is to become a programmer to solve real-life problems.
