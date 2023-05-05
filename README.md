@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/49/27/84/4927849d453932ff05aba4fe7a06dd12.gif" width="100" height="100" alt="hello">
 I am in possesion of Dutch Citizenship. My passion is to become a programmer to solve real-life problems.
 
-I'm a fresh graduated from AlmaBetter academy where I've learned the most up to date technologies.I did Certifications for Frontend And Backend technologies along with worked on real-life projects .I made ResumeBuilder App  as front end and Youtube Subscription as Backend .
+I'm a fresh graduated from AlmaBetter academy where I've learned the most up to date technologies.I did Certifications for Frontend And Backend technologies along with worked on real-life projects .I made Reserve Bus , ResumeBuilder App  as front end and Youtube Subscription as Backend .
 I feel comfortable building full stack apps.
 
 I'm an energetic, passionate and creative. 
